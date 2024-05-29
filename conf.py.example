@@ -1,0 +1,9 @@
+ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+
+from_city = ""
+to_city = ""
+date = ""
+train_id = ""
+passengers = [""]
+
+submit_time = "yyyy-MM-dd hh:mm:ss"
